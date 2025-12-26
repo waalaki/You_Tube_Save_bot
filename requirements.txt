@@ -5,3 +5,7 @@ aiohttp
 aiofiles
 flask
 requests
+fastapi
+uvicorn[standard]
+yt-dlp
+requests
